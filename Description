@@ -1,0 +1,5 @@
+Here the input is an image 
+We blur image
+we get edges from it using laplacian filter
+then use bilteral filter to cartonify image
+then draw those edges on the cartonified image
